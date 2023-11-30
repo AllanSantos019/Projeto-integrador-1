@@ -1,0 +1,17 @@
+/* @import url('https://fontes.googleapis.com/css2?family=Outfit:wht@100;200;300;400;500;600;700;800;900&display=swap');
+*/
+*{
+
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Outfit', sans-serif;
+}
+body{
+    width: 100%;
+    height: 100vh;
+    background-image: url(img/fonez1.webp);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    }
